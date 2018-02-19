@@ -1,0 +1,103 @@
+div{
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+ul{
+	list-style: none;
+}
+
+#main{
+	width: 800px;
+	height: 550px;	
+}
+
+#horis1{
+	height: 10%;
+	width: 100%;
+}
+
+#horis2{
+	height: 45%;
+	width: 100%;
+}
+.hori2_v{
+	height: 100%;
+	width: 50%;
+}
+#hori2_v1{
+	height: 80%;
+	width: 50%;
+}
+
+#horis3{
+	height: 45%;
+	width: 100%;
+}
+.hori3_v{
+	height: 100%;
+	width: 12.5%;
+}
+
+.row_m{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+.column_m{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: space-around;
+}
+.column_m1{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.text10{
+	color: black;
+	font-size: 10px;
+	text-align: center;
+}
+.text15{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+.text20{
+	color: black;
+	font-size: 20px;
+	text-align: center;
+}
+
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+}
+.gray{
+    background-color: gray;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.white{
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
+.Skin{
+	background-color: rgba(242, 214, 214, 0.99);
+}
+.Gray1{
+	background-color: rgba(200, 200, 200, 0.9);
+}
